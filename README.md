@@ -1,7 +1,3 @@
-  
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -24,27 +20,11 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=leeobrum&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=leeobrum&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=leeobrum&&style=flat-square)  
-  
-
-<br/>  
-
 
 <br />
 
