@@ -13,10 +13,3 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=leeobrum&show_icons=true&theme=dark" align="center" /></div>  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=leeobrum&&style=flat-square)  
-
